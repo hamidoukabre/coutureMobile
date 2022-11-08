@@ -1,0 +1,7 @@
+{
+  "name": "mobileCouture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
